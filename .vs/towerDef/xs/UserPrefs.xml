@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{3BCF4496-7AC9-2A8D-930F-40D93D29A95C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/DiskController.cs">
+    <Files>
+      <File FileName="Assets/DiskController.cs" Line="184" Column="72" />
+      <File FileName="Assets/DiskObject.cs" Line="14" Column="1" />
+      <File FileName="Assets/tutorialController.cs" Line="50" Column="63" />
+      <File FileName="Assets/RotateCameraScript.cs" Line="5" Column="48" />
+      <File FileName="Assets/UINotificationController.cs" Line="87" Column="34" />
+      <File FileName="Assets/AppController.cs" Line="25" Column="67" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="786a896a-b4b8-4ea8-b9ee-dba455426e77" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

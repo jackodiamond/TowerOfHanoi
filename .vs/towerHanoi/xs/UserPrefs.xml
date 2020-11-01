@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{A4183DB8-9B20-CC6E-90C1-3E15E4168681}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DiskController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AppController.cs" Line="11" Column="1" />
+      <File FileName="Assets/Scripts/DiskController.cs" Line="21" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="977b9eda-c70c-4077-bc0b-3fa8a2445d5c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
